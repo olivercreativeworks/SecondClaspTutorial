@@ -4,4 +4,5 @@ function happyPeople(){
     Logger.log("More changes")
     Logger.log(9+9)
     Logger.log(21)
+    Logger.log("My new branch")
 }
